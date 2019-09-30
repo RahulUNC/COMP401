@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Rahul&apos;s Documents/UNC Chapel Hill/COMP 401/a4-RahulUNC/a4solution.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
